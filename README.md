@@ -1,2 +1,0 @@
-# myproject
-my_proj
